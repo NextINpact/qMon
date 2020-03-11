@@ -1,0 +1,8 @@
+/node_modules/
+/results-bing.json
+/results-qwant.json
+/dist/
+/package-lock.json
+/bin/
+/.babelrc
+/.idea/
